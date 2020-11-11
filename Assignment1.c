@@ -1,4 +1,4 @@
-//Roll no. 66, 67, 68, 69 and 70 SE-ENTC
+//Roll no. 66, 67, 68, 69 and 70 SE-ENTC Div-B.
 //Implement stack and Queue using arrays.
 
 
